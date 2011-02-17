@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="autotiles.png"/>
+ </tileset>
+ <layer name="map" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmcEOhDAIRDk0qTGu6/9/7drDXgo11EKKZiaZK+MzKDQ9iOiAQ3pztnWOxLCTv9Lp1bDeQnM4rAWOWALHmPLpj2E9iaP462zr99Xi8J4fxfjvcoEjlsARS+CIJS1Hmb/es1GyduZrOVrz0vvcpp2VWo50kTV6hrPo45nfxz/7CRxZkf0EDk02OHgtcIxng4PXmsnRc46W5nsmzjCLY+QsnCgGx1v6youjp197ernemb33q55+vboDqHu53jWj7YnLzWeJ9n2AAxytWuAABzjatcBx/y48GsdoNjh4rTdyWO3tmjtbqzyJAY7hHzhpMKI=
+  </data>
+ </layer>
+ <objectgroup name="spawns" width="50" height="50">
+  <object name="spawnpoint1" type="spawnpoint" x="65" y="300"/>
+ </objectgroup>
+ <objectgroup name="pickups" width="50" height="50">
+  <object name="key1" type="key" x="268" y="351">
+   <properties>
+    <property name="unlocks" value="door1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="doors" width="50" height="50">
+  <object name="door1" type="door" x="44" y="45">
+   <properties>
+    <property name="key" value="key1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

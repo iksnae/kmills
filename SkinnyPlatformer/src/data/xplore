@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="autotiles.png" trans="#00ff0a"/>
+ </tileset>
+ <layer name="main" width="100" height="50" opacity="0.75">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJADEQA8ELzSfuv1vj5FvwBjOgXLAzlHyvD/Bbo0eJHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tNwe21I7HL8JPQ==
+  </data>
+ </layer>
+ <layer name="room1" width="100" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJADEQA8ELzSfuv1vj5FvwBjOgXLAzlHyvD/Bbo0eJHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tOjRokeLHi16tNwe21I7HL8JPQ==
+  </data>
+ </layer>
+ <objectgroup name="main_doors" width="100" height="50">
+  <object name="main_door1" type="door" x="183" y="387">
+   <properties>
+    <property name="destination" value="room1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="room1_doors" width="100" height="50">
+  <object name="room1_door1" type="door" x="568" y="387">
+   <properties>
+    <property name="destination" value="main"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

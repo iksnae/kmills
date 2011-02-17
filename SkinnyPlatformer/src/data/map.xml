@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="1" tileheight="16">
+  <image source="../../../SkinnyShooter/src/org/flixel/data/autotiles.png"/>
+ </tileset>
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="../../../SkinnyShooter/src/org/flixel/data/autotiles.png"/>
+ </tileset>
+ <layer name="Layer 1" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   H4sIAAAAAAAAA+3DAQkAAAwDoK1/6dU4XMEEAAAAAAAAAAAAAAAAAAAAAAAA+KqeOoFTmgMgTgAA
+  </data>
+ </layer>
+</map>

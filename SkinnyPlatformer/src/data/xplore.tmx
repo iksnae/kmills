@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="autotiles.png" trans="#00ff0a"/>
+ </tileset>
+ <layer name="main" width="100" height="50" visible="0" opacity="0.75">
+  <properties>
+   <property name="bgFar" value="FG2"/>
+   <property name="bgNear" value="FG1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0aEOgDAQBcFKAoL//1uCwVcxbXaS5y+3Y0Ry/n1APseoh6QelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mGph6UelnpY6mHZucc1OcGqPVb576xVe+zq7XE3ag9fhwok
+  </data>
+ </layer>
+ <layer name="room1" width="100" height="50">
+  <properties>
+   <property name="bgFar" value="SkyImage"/>
+   <property name="bgNear" value="HollywoodImage"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmsEKgzAQBb21FFr7/19bPNiqaN1NjHkbZ2BvCuENyW7ErgMlHrUXAF/uHT6UwIcW+NACH1rgQwt8aDH4eDsKyjL6sOD1gVs/nvPKmyM+/Hj7hydLsveT0s+tOePDT8n5Ch9+8KEFPrTAhxa5/Zx75LEw72ph9ZGSLT780D+0wIcW+NACH1qMPkrMrvjww7yrRc590PocPuyk9g/v93bu6zZy+jnZHg//l2iBDy1S5l2VapHIPrb8WJ3VXu9aXfm8qp09PubUzh4fcyxn2tlcwYe17yiADy1a9BEh9y3woUVrPiJlv0YLPqLuhTWi+Ggl7z3woUVUH606qemjn9Rz59nIM5OHs33cup+Daa6vnfei3OdyOcPHloNl/dsvke7YOZT2MbhI+c653C+Wd1pg8NEXrJxvzyXXpVwfqSYlWQ==
+  </data>
+ </layer>
+ <objectgroup name="main_doors" width="100" height="50">
+  <object name="main_door1" type="door" x="159" y="388">
+   <properties>
+    <property name="destination" value="room1"/>
+    <property name="spawn" value="spawn1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="room1_doors" width="100" height="50">
+  <object name="door2" type="door" x="202" y="58" width="9" height="9">
+   <properties>
+    <property name="destination" value="main"/>
+    <property name="spawn" value="spawn1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="main_pickups" width="100" height="50" visible="0">
+  <object name="" x="370" y="362"/>
+  <object name="" x="440" y="354"/>
+  <object name="" x="511" y="351"/>
+  <object name="" type="coin" x="282" y="362"/>
+  <object name="" type="coin" x="249" y="340"/>
+ </objectgroup>
+ <objectgroup name="room1_pickups" width="100" height="50">
+  <object name="" type="coin" x="517" y="375" width="11" height="12"/>
+  <object name="" type="coin" x="580" y="376" width="12" height="11"/>
+  <object name="" type="coin" x="461" y="374" width="12" height="13"/>
+  <object name="" type="coin" x="649" y="377" width="11" height="10"/>
+  <object name="" type="coin" x="707" y="377" width="9" height="10"/>
+  <object name="" type="coin" x="413" y="374" width="12" height="14"/>
+ </objectgroup>
+ <objectgroup color="#a40405" name="main_spawns" width="100" height="50">
+  <object name="spawn1" type="spawn" x="420" y="58"/>
+ </objectgroup>
+ <objectgroup name="room1_spawns" width="100" height="50">
+  <object name="spawn1" type="spawn" x="87" y="294"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="autotiles.png"/>
+ </tileset>
+ <layer name="main" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMA6D+9e+3MrYDEhIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7VVwcAdARN
+  </data>
+ </layer>
+ <objectgroup name="main_pickups" width="100" height="100"/>
+ <objectgroup name="main_doors" width="100" height="100"/>
+ <objectgroup name="main_enemies" width="100" height="100"/>
+</map>

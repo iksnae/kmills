@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="1" tileheight="16">
+  <image source="../../../SkinnyShooter/src/org/flixel/data/autotiles.png"/>
+ </tileset>
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="../../../SkinnyShooter/src/org/flixel/data/autotiles.png"/>
+ </tileset>
+ <layer name="map" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2W0LAUEYhlHykpT4/78WRbEtWu3M3MM59XzUDlezO5vDgiSH1gvgiR5Zhj1Wl9mPzDvDz/A9+yOLHln0yHLtMfV5QTn2RxY9suiRRY8sJXu8ere8zq7gdXv22GPdbBXc9X6/2rRewMx677FtvYCZ6ZFFjyx6ZJnS4935tcQMz8Rjz+5/7tHar/32Y/TIokeW1j2m/O+iRxY9qK1Wj1dnWp7ZH1n0yFKqh/vSd+bqcbxNLbWvV9PRRMzpU6gO/MJ3AAAAAAAAoE/LDucMQJQKmQ==
+  </data>
+ </layer>
+</map>

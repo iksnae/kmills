@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="../../../../projects/SkinnyPlatformer/src/data/autotiles.png" trans="#00ff13"/>
+ </tileset>
+ <layer name="map" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3FFrgzAUQGGfusFY5///ta0PDrFJGk30nuL54D4MVlc8xMxOdh9E8f2ce/Sb0D97sNiDxR4s9mCxB4s9WOzBYg8We7DYg2Xq8eegxvXB4fWKxR4s9mCxB4s9WOzBYg8We7DYg8UeLPZgsQeLPVjswWIPFnuw2IPFv9fyxvXB4fWKxR4s9mCxB4s9WOzBYg8We7DYo4+vIX+//Vt43bj62h59TOdxzMyW82uPPuwRb3mNyrWwx6vceap5XUlpTbzrkTv2FXocpaVH6Zj2qFd7jbLHOWrXhD3OYY84qXu8rS3mqb0/tEfenrXQul7skXd2j3GwR4k94kx7xfq67vUqTuo82CMOqUfLs3Q1op/32ztHtJjniOcTbztfp7yW65U9+rMHiz1Y7MGS6vGzmtznX7fE9zrt82595NaB66O/muuVPc5jDxZ7sMw9lvvJ2pYe0XsheWq4PljswWIPFnuw1Nyfl3pE75FR++9RP7Nlfag/e7DYg8UeLP6/Jd74vA+Hz1+x2IPFHiz2YCn12Pv7Qc9j9Rzq+1pO7/VBvVehvq81e7DYg8UeLHOPlj1xqcce23K8T5qUq6wPmtx5skcMe7DYg2VLj+h9jrS/HnlOUq7y+dWnrFt7sNiDxR4sPs/Amwe0QU9q
+  </data>
+ </layer>
+ <objectgroup name="doors" width="100" height="100">
+  <object name="exit1" type="teleport" x="436" y="779"/>
+  <object name="" x="718" y="608"/>
+  <object name="" x="474" y="345"/>
+ </objectgroup>
+ <objectgroup name="coins1" width="100" height="100">
+  <object name="" x="409" y="777"/>
+  <object name="" x="376" y="777"/>
+  <object name="" x="345" y="775"/>
+  <object name="" x="305" y="777"/>
+  <object name="" x="273" y="777"/>
+  <object name="" x="241" y="777"/>
+  <object name="" x="211" y="777"/>
+  <object name="" x="185" y="777"/>
+  <object name="" x="161" y="777"/>
+  <object name="" x="138" y="779"/>
+  <object name="" x="120" y="778"/>
+  <object name="" x="95" y="778"/>
+  <object name="" x="73" y="778"/>
+  <object name="" x="48" y="776"/>
+  <object name="" x="25" y="778"/>
+  <object name="" x="18" y="754"/>
+  <object name="" x="21" y="731"/>
+  <object name="" x="77" y="735"/>
+  <object name="" x="53" y="734"/>
+  <object name="" x="94" y="699"/>
+  <object name="" x="58" y="698"/>
+  <object name="" x="25" y="697"/>
+  <object name="" x="25" y="670"/>
+  <object name="" x="41" y="648"/>
+  <object name="" x="74" y="647"/>
+  <object name="" x="107" y="649"/>
+  <object name="" x="143" y="649"/>
+  <object name="" x="180" y="675"/>
+  <object name="" x="179" y="647"/>
+  <object name="" x="181" y="701"/>
+  <object name="" x="215" y="657"/>
+  <object name="" x="241" y="657"/>
+  <object name="" x="265" y="658"/>
+  <object name="" x="292" y="657"/>
+  <object name="" x="322" y="658"/>
+  <object name="" x="354" y="657"/>
+  <object name="" x="386" y="658"/>
+  <object name="" x="418" y="657"/>
+  <object name="" x="449" y="659"/>
+  <object name="" x="429" y="696"/>
+  <object name="" x="396" y="695"/>
+  <object name="" x="365" y="695"/>
+  <object name="" x="331" y="696"/>
+  <object name="" x="213" y="697"/>
+  <object name="" x="246" y="696"/>
+  <object name="" x="287" y="697"/>
+  <object name="" x="183" y="736"/>
+  <object name="" x="213" y="735"/>
+  <object name="" x="243" y="733"/>
+  <object name="" x="285" y="735"/>
+  <object name="" x="331" y="738"/>
+  <object name="" x="363" y="737"/>
+  <object name="" x="401" y="739"/>
+  <object name="" x="432" y="735"/>
+  <object name="" x="465" y="733"/>
+  <object name="" x="479" y="692"/>
+  <object name="" x="479" y="657"/>
+  <object name="" x="526" y="655"/>
+  <object name="" x="573" y="655"/>
+  <object name="" x="623" y="654"/>
+  <object name="" x="661" y="653"/>
+  <object name="" x="702" y="654"/>
+  <object name="" x="736" y="653"/>
+  <object name="" x="775" y="653"/>
+  <object name="" x="525" y="696"/>
+  <object name="" x="571" y="692"/>
+  <object name="" x="628" y="693"/>
+  <object name="" x="670" y="693"/>
+  <object name="" x="701" y="692"/>
+  <object name="" x="743" y="692"/>
+  <object name="" x="778" y="691"/>
+  <object name="" x="523" y="738"/>
+  <object name="" x="576" y="736"/>
+  <object name="" x="633" y="733"/>
+  <object name="" x="673" y="733"/>
+  <object name="" x="702" y="732"/>
+  <object name="" x="776" y="731"/>
+  <object name="" x="775" y="769"/>
+  <object name="" x="736" y="775"/>
+  <object name="" x="691" y="777"/>
+  <object name="" x="652" y="776"/>
+  <object name="" x="608" y="776"/>
+  <object name="" x="559" y="776"/>
+  <object name="" x="497" y="779"/>
+ </objectgroup>
+ <objectgroup name="player" width="100" height="100">
+  <object name="player1" type="spawnpoint" x="132" y="737"/>
+  <object name="" x="23" y="609"/>
+  <object name="" x="765" y="486"/>
+  <object name="" x="18" y="112"/>
+ </objectgroup>
+ <objectgroup name="coins2" width="100" height="100">
+  <object name="" x="49" y="611"/>
+  <object name="" x="18" y="571"/>
+  <object name="" x="51" y="569"/>
+  <object name="" x="47" y="527"/>
+  <object name="" x="16" y="525"/>
+  <object name="" x="17" y="483"/>
+  <object name="" x="57" y="484"/>
+  <object name="" x="95" y="485"/>
+  <object name="" x="94" y="552"/>
+  <object name="" x="93" y="607"/>
+  <object name="" x="148" y="609"/>
+  <object name="" x="240" y="608"/>
+  <object name="" x="319" y="605"/>
+  <object name="" x="417" y="608"/>
+  <object name="" x="532" y="610"/>
+  <object name="" x="593" y="605"/>
+  <object name="" x="471" y="609"/>
+  <object name="" x="272" y="602"/>
+  <object name="" x="681" y="612"/>
+  <object name="" x="759" y="608"/>
+  <object name="" x="768" y="568"/>
+  <object name="" x="649" y="566"/>
+  <object name="" x="584" y="568"/>
+  <object name="" x="466" y="565"/>
+  <object name="" x="152" y="570"/>
+  <object name="" x="255" y="570"/>
+  <object name="" x="376" y="567"/>
+  <object name="" x="199" y="526"/>
+  <object name="" x="135" y="528"/>
+  <object name="" x="202" y="574"/>
+  <object name="" x="309" y="527"/>
+  <object name="" x="322" y="568"/>
+  <object name="" x="522" y="568"/>
+  <object name="" x="374" y="528"/>
+  <object name="" x="464" y="525"/>
+  <object name="" x="526" y="528"/>
+  <object name="" x="588" y="528"/>
+  <object name="" x="669" y="526"/>
+  <object name="" x="730" y="525"/>
+  <object name="" x="768" y="529"/>
+ </objectgroup>
+ <objectgroup name="coins3" width="100" height="100">
+  <object name="" x="730" y="486"/>
+  <object name="" x="693" y="488"/>
+  <object name="" x="638" y="484"/>
+  <object name="" x="579" y="482"/>
+  <object name="" x="517" y="484"/>
+  <object name="" x="462" y="482"/>
+  <object name="" x="375" y="484"/>
+  <object name="" x="290" y="482"/>
+  <object name="" x="190" y="481"/>
+  <object name="" x="139" y="480"/>
+  <object name="" x="140" y="429"/>
+  <object name="" x="194" y="432"/>
+  <object name="" x="290" y="429"/>
+  <object name="" x="376" y="430"/>
+  <object name="" x="466" y="427"/>
+  <object name="" x="530" y="434"/>
+  <object name="" x="762" y="423"/>
+  <object name="" x="772" y="381"/>
+ </objectgroup>
+</map>
