@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="100" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="autotiles_alt" tilewidth="8" tileheight="8">
+  <image source="autotiles_alt.png"/>
+ </tileset>
+ <tileset firstgid="17" name="autotiles" tilewidth="8" tileheight="8">
+  <image source="autotiles.png"/>
+ </tileset>
+ <tileset firstgid="33" name="coins" tilewidth="50" tileheight="50">
+  <image source="coins.png"/>
+ </tileset>
+ <tileset firstgid="49" name="gold" tilewidth="8" tileheight="8">
+  <image source="gold.bmp"/>
+ </tileset>
+ <layer name="map" width="200" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3UtKA0EYhdHgQAQhLiH736U6EOLj2p2kqvvvqnOgcSCETD6qbx56PgF/efm4zns/CShKH5DpA7LqfbzeeEFL1fuAPekDMn1Apg/IqvXRe2vfuvfXPg+vIYypWh9QiT4g0wdk+oBs7z5sVyrbuw+oTB+Q6QMyfUC2Rx/2OEfh/IBMH5DpAzJ9QLZVHzY5R+T8gEwfkOkDMn1A1qsPn1tnBM4PyPQBmT4ga93Hc8PHgr216MMOZ1TuryDTB2T6gOyRPmxxRndrH7Y4M3F/BZk+INMHZPqA7KsP/w8MfnN+QKYPyPQB2Zo+vE/OrNaeH/Y6M3J/BZk+INMHZPf0Ya8zi3vPD3udGbi/gkwfkOmD5G3Fdbn6efnxuxG06MNeZ1Stzg+fjWdE7q8g0wdk+hiDLd2HPiDboo//vttux1OZ8wMyfUCmD67Z+d/pA7JqfazZ8jY9W6nWB1SiD8j0cTw29Hb0Adkofdjy9DBKH9CDPiDTx7zs/GX6gGzmPrxHz5KZ+4Al+uBRI+8YfUCmD8hG6cPOpodR+uD4Ku4YfUCmD8j0AVm1Pnz/nJYe3TTV+oBK9AGZPiDTB2RV/n67vU0P9jn0ow/I9AGZPiD77OPptG7HuFwzXu/wRySc
+  </data>
+ </layer>
+ <layer name="coins" width="200" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEBAAAIwzCM4d8WCtgLR6KgT6sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANj0dQA85xHIPAKZRyDzCAAAAAAA8MEAJPYBMg==
+  </data>
+ </layer>
+</map>

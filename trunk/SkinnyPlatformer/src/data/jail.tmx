@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grey32tiles" tilewidth="32" tileheight="32">
+  <image source="grey32tiles.png"/>
+ </tileset>
+ <layer name="main" width="64" height="32">
+  <properties>
+   <property name="bgFar" value="FG2"/>
+   <property name="bgNear" value="JailBG"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmEEOgCAMBFH+/2fDzRiNLCx0KZ2kN4kMQbaYU0rZUR0J4wSfVyf8McLfF8r+ecI7rPxr3Fb0r51zrz9rbVr8rTMbLba/Cow9EP4Ynvx363/f1qvn/GPPxQLl/GeM+UMt/2dk/p0R/iuVxf5X+fYLxR9ZL4/+CM/+t4XV/b9Q8qrF6vzvHcMi/DGU/K3uP9aZ3XrnZ/X/ntjZf4f7r+f/XwzCHwP1RzNqdv/gNf9G1QWSMgPW
+  </data>
+ </layer>
+ <objectgroup name="main_doors" width="64" height="32"/>
+ <objectgroup name="main_pickups" width="64" height="32">
+  <object name="" x="592" y="370"/>
+  <object name="" x="588" y="314"/>
+  <object name="" x="1206" y="312"/>
+  <object name="" x="1206" y="366"/>
+  <object name="" x="1010" y="422"/>
+  <object name="" x="780" y="448"/>
+  <object name="" x="656" y="228"/>
+  <object name="" x="734" y="230"/>
+  <object name="" x="804" y="228"/>
+  <object name="" x="960" y="228"/>
+  <object name="" x="1024" y="226"/>
+  <object name="" x="1190" y="228"/>
+  <object name="" x="1286" y="228"/>
+  <object name="" x="1604" y="422"/>
+  <object name="" x="1478" y="420"/>
+  <object name="" x="1380" y="420"/>
+  <object name="" x="1284" y="420"/>
+  <object name="" x="354" y="708"/>
+  <object name="" x="452" y="708"/>
+  <object name="" x="550" y="710"/>
+  <object name="" x="772" y="710"/>
+  <object name="" x="872" y="710"/>
+  <object name="" x="964" y="708"/>
+  <object name="" x="838" y="608"/>
+  <object name="" x="936" y="618"/>
+  <object name="" x="1062" y="708"/>
+  <object name="" x="1064" y="614"/>
+  <object name="" x="1254" y="708"/>
+  <object name="" x="1254" y="616"/>
+  <object name="" x="102" y="902"/>
+  <object name="" x="166" y="902"/>
+  <object name="" x="228" y="902"/>
+  <object name="" x="294" y="902"/>
+  <object name="" x="356" y="902"/>
+  <object name="" x="424" y="900"/>
+  <object name="" x="486" y="902"/>
+  <object name="" x="548" y="902"/>
+  <object name="" x="614" y="902"/>
+  <object name="" x="676" y="900"/>
+  <object name="" x="740" y="902"/>
+  <object name="" x="806" y="904"/>
+  <object name="" x="868" y="902"/>
+  <object name="" x="934" y="902"/>
+  <object name="" x="1002" y="902"/>
+  <object name="" x="1064" y="902"/>
+  <object name="" x="1128" y="900"/>
+  <object name="" x="1192" y="902"/>
+  <object name="" x="1258" y="904"/>
+  <object name="" x="1320" y="904"/>
+  <object name="" x="1382" y="904"/>
+  <object name="" x="1452" y="900"/>
+  <object name="" x="1516" y="900"/>
+  <object name="" x="1416" y="776"/>
+  <object name="" x="1606" y="776"/>
+  <object name="" x="1608" y="710"/>
+  <object name="" x="1606" y="648"/>
+  <object name="" x="1542" y="642"/>
+  <object name="" x="1476" y="642"/>
+  <object name="" x="1412" y="642"/>
+  <object name="" x="1348" y="646"/>
+  <object name="" x="1288" y="648"/>
+  <object name="" x="488" y="968"/>
+  <object name="" x="582" y="966"/>
+  <object name="" x="676" y="966"/>
+  <object name="" x="872" y="968"/>
+  <object name="" x="966" y="966"/>
+  <object name="" x="1064" y="966"/>
+  <object name="" x="1158" y="966"/>
+  <object name="" x="1254" y="964"/>
+  <object name="" x="1316" y="964"/>
+  <object name="" x="1384" y="968"/>
+  <object name="" x="1446" y="964"/>
+  <object name="" x="1508" y="964"/>
+  <object name="" x="1574" y="964"/>
+  <object name="" x="1636" y="966"/>
+  <object name="" x="1636" y="900"/>
+  <object name="" x="1574" y="900"/>
+  <object name="" x="102" y="968"/>
+  <object name="" x="164" y="968"/>
+  <object name="" x="230" y="964"/>
+  <object name="" x="294" y="966"/>
+  <object name="" x="356" y="968"/>
+  <object name="" x="68" y="740"/>
+  <object name="" x="68" y="710"/>
+  <object name="" x="68" y="676"/>
+  <object name="" x="102" y="676"/>
+  <object name="" x="98" y="710"/>
+  <object name="" x="102" y="740"/>
+  <object name="" x="134" y="742"/>
+  <object name="" x="132" y="710"/>
+  <object name="" x="134" y="678"/>
+  <object name="" x="166" y="740"/>
+  <object name="" x="166" y="712"/>
+  <object name="" x="166" y="678"/>
+  <object name="" x="200" y="676"/>
+  <object name="" x="200" y="710"/>
+  <object name="" x="200" y="742"/>
+ </objectgroup>
+ <objectgroup name="main_spawns" width="64" height="32"/>
+</map>

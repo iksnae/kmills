@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="gsctoolszm3" tilewidth="16" tileheight="16" spacing="2" margin="8">
+  <image source="gsctoolszm3.png" trans="#ff00ff"/>
+ </tileset>
+ <layer name="Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0VdOggEUhNFr4ZFENmN3AYJtTRbExIbbwR67a1IZN/ETwnk475P5Bu2q86Wqi7iMq7iOYdzEoE2TXvL5a7zFe3zEZ3zFtx6N+8nnv/EX1amai/lYiMXO5PfNmuV8vhKrsRbrsRGbsaUHMEW2W1Xd6MVO7MZe7MdBa/L7Zs1hPj+K4ziJfpz+d4gzPRo3yue3cRf38RCP8RTPegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0JAxcDu7hg==
+  </data>
+ </layer>
+</map>
