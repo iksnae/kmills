@@ -1,0 +1,107 @@
+
+<game>
+	<round>
+	<name>US Capitals</name>
+	<size>18</size>
+	<words>
+Alabany,Annapolis,Atlanta,Augusta,Austin,BatonRouge,Bismarck,Boise,Boston,Carson,Charleston,Cheyenne,Columbia,Columbus,Concord,Denver,DesMoines,Dover,Frankfort,Harrisburg,Hartford,Helena,Honolulu,Indianapolis,JacksonJefferson,Juneau,LansingLincolnLittleRock,MadisonMontgomery,Montpelier,Nashville,Oklahoma,Olympia,PheonixPierre,Providence,RaleighRichmond,Sacramento,Salem,SaltLake,SantaFe,SpringfieldStPaulTallahassee,Topeka,Trenton
+	</words>
+	</round>
+	
+	<round>
+	<name>Cooking Terms</name>
+	<size>15</size>
+	<words>
+	bake,baste,blend,cream,cuttingboard,dice,foldin,garnish,ladle,measuringcups,meatthermometer,panfry,roastingpan,sautee,season,sifter,simmer,strain,whip,wirewhisk,Sweet,Blanch,Yield,Bouillabaisse,Serrated,Braise,Utility,Butterfly,Cleaver,Caramelize,Fillet,Clarify,Chef,Cream,Dredge,Goulash,Julienne,Panfry,Pare,Poach,Saute,Simmer,Stew,Score
+    </words>
+	</round>
+	
+	<round>
+	<name>Egypt</name>
+	<size>18</size>
+	<words>
+afterlife,ancient,artemis,babylon,cairo,cheops,colossus,delta,duamtef,egypt,giza,goddisis,gods,gold,greeks,ha'py,heart,herodotus,Hieroglyphics,imset,khufu,manifestation,mausoleum,mummies,mummification,narton,Pyramids,qebehsenuf,religion,rosetta stone,slaves,spirits,stone,tombs,underworld,zeus
+	</words>
+	</round>
+	
+	
+	<round>
+	<name>Music</name>
+	<size>18</size>
+	<words>
+	accent,accidentals,allegro,andante,arpeggio,articulation,barline,breath mark,chord,scale,time,crescendo,decrescendo,divisi,dominant,double bar,dynamics,fermata,flat,forte,harmony,interval,introduction,key,largo,ledger,long rest,measure,mezzoforte,mezzopiano,moderato,natural,repeat,phrase,piano,note,ritardando,scale,sharp,slur,soli,solo,staff,subdominant,tempo,theme,tie,tonic,treble clef,tutti,unison,variation
+	</words>
+	</round>
+	
+	
+	<round>
+	<name>Cars</name>
+	<size>18</size>
+	<words>
+Acura,AlfaRomeo,AstonMartin,Audi,Bentley,BMW,Bugatti,Buick,Cadillac,Chevrolet,Chrysler,Daewoo,Daihatsu,Dodge,Ferrari,Fiat,Ford,GMC,Honda,Hummer,Hyundai,Infiniti,Isuzu,Jaguar,Jeep,Kia,Lamborghini,Land Rover,Lexus,Lincoln,Lotus,Maserati,Mazda,McLaren,MercedesBenz,Mercury,Mini,Mitsubishi,Nissan,Oldsmobile,Opel,Peugeot,Plymouth,Pontiac,Porsche,Renault,Rolls-Royse,Saab,Saturn,Subaru,Suzuki,Toyota,Volkswagon,Volvo
+	</words>
+	</round>
+	
+	
+	<round>
+	<name>Basketball</name>
+	<size>18</size>
+	<words>
+acceleration,applaud,comeback,concede,concessionaire,demolish,dugout,error,failure,homerun,mascot,mound,nohitter,overcome,pivot,sacrifice,slugger,stadium,stretch,surrender,trounce,twilight,umpire,velocity/words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Biology</name>
+	<size>18</size>
+	<words>
+Embryonic,Entomologist,Indefatigable,Industrious,Indigenous,Iridescent,Insatiable,Insecticide,Larvae,Metamorphosis,Nemesis,Nocturnal,Pollinate,Proboscis,Quarantine,Subterranean,Trepidation,Ubiquitous</words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Constitution</name>
+	<size>18</size>
+	<words>
+Amendment,Bipartisanship,Conceive,Enumerate,Establish,Federalism,Legislative,Ordain,Perfect,Perpetuate,Posterity,Ratification,Recitation,Republic,Secure,Simultaneous,Tranquility,Uniqueness</words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Earth day</name>
+	<size>18</size>
+	<words>
+abundance,apathetic,botanical,defoliate,deplete,Ecology,endangered,environs,flora,fauna,flourish,inspiration,ozone,pollute,renewable,revitalize,sustainable,symbiosis,terrain,vegetation</words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Election</name>
+	<size>18</size>
+	<words>
+Boondoggle,Campaign,Candidate,Canvass,Charisma,Coattails,Constituents,Controversy,Ethics,Gerrymander,Hypocrisy,Incumbent,Issues,Nominate,Oratory,Party,Petition,Pollister,Primary,Seniority,Strategy,Tactics,Voter</words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Football</name>
+	<size>18</size>
+	<words>
+oncede,defense,demolish,dominate,expansion,failure,formidable,frantic,intercept,intercollegiate,interference,interrupt,official,opponent,overcome,overtime,prediction,receiver,sack,surrender,touchdown,trounce</words>
+	</round>
+	
+	
+	
+	<round>
+	<name>Geography</name>
+	<size>18</size>
+	<words>
+brasion,Archipelago,Cartography,Continent,Eluvial,Equator,Erosion,Glacier,Hemisphere,Isthmus,Latitude,Meander,Meridian,Peninsula,Polar,Permafrost,Permeable,Piedmont,Reclamation,Reservoir,Saturation,Sediment,Terrain,Topography,Tributary,Tropical</words>
+	</round>
+	
+</game>
