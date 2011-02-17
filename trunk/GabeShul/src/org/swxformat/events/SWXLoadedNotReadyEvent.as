@@ -1,0 +1,1 @@
+﻿package org.swxformat.events{	import flash.events.Event;		public class SWXLoadedNotReadyEvent extends flash.events.Event	{		public static var LOADED_BUT_NOT_READY:String = "loadedButNotReady";					function SWXLoadedNotReadyEvent(bubbles:Boolean = false, cancelable:Boolean = false)		{			super(LOADED_BUT_NOT_READY,bubbles,cancelable);					}	}}

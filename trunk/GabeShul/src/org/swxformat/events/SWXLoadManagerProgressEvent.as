@@ -1,0 +1,1 @@
+﻿package org.swxformat.events{	import flash.events.Event;		public class SWXLoadManagerProgressEvent extends flash.events.Event	{		public static const LOADMANAGER_PROGRESS:String = "loadmanagerprogress";						function SWXLoadManagerProgressEvent( bubbles:Boolean = false, cancelable:Boolean = false)		{			super(LOADMANAGER_PROGRESS,bubbles,cancelable);					}	}}

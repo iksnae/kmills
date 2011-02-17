@@ -1,0 +1,1 @@
+﻿package org.swxformat.events{	import flash.events.Event;		public class SWXTimeoutEvent extends flash.events.Event	{		public static const TIMEOUT:String = "timeout";					function SWXTimeoutEvent(bubbles:Boolean = false, cancelable:Boolean = false)		{			super(TIMEOUT,bubbles,cancelable);					}	}}

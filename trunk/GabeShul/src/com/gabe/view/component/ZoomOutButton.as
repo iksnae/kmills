@@ -1,0 +1,1 @@
+﻿package com.gabe.view.component {		import flash.display.MovieClip;			public class ZoomOutButton extends ZoomOutButtonView {						public function ZoomOutButton() {			// constructor code		}	}	}

@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Header1" itemID="4c7f1821-00000258" linkageExportForAS="true" linkageClassName="Header1" sourceLibraryItemHRef="Symbol 1" lastModified="1285030604">
+  <timeline>
+    <DOMTimeline name="Header1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMTLFText name="" selected="true" right="566" bottom="459">
+                      <matrix>
+                        <Matrix tx="270.4"/>
+                      </matrix>
+                      <tlfFonts>
+                        <TLFFont platformName="Arial" psName="Arial-BoldMT" bold="true"/>
+                      </tlfFonts>
+                      <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="18" verticalAlign="top" firstBaselineOffset="ascent" paddingLeft="0" paddingTop="0" paddingRight="0" paddingBottom="0" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow alignmentBaseline="useDominantBaseline" blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" direction="ltr" dominantBaseline="auto" lineBreak="inherit" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textIndent="0" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p baselineShift="0" breakOpportunity="auto" color="#292929" digitCase="default" digitWidth="default" direction="ltr" fontFamily="Arial" fontSize="11.566" fontStyle="normal" fontWeight="bold" ligatureLevel="common" lineHeight="120%" lineThrough="false" locale="en" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="0%" typographicCase="default"><span>®</span></p></TextFlow></tlfTextObject></markup>
+                    </DOMTLFText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup>
+                          <members>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-43" ty="-47.3"/>
+                              </matrix>
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#292929"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!5514 1347[5433 1347 5385 1367!5385 1367[5320 1395 5294 1429!5294 1429[5258 1477 5243 1531!5243 1531|5159 1508!5159 1508[5185 1425 5220 1380!5220 1380[5261 1329 5338 1298!5338 1298[5411 1269 5507 1269!5507 1269[5622 1269 5732 1328!5732
+ 1328[5829 1381 5875 1495!5875 1495[5900 1557 5910 1601!5910 1601[5920 1649 5921 1716!5921 1716[5922 1779 5908 1833!5908 1833[5897 1877 5870 1934!5870 1934[5846 1985 5811 2019!5811 2019[5780 2050 5724 2082!5724 2082[5675 2112 5624 2125
+!5624 2125[5575 2138 5506 2141!5506 2141[5405 2144 5322 2112!5322 2112[5224 2076 5144 2012!5144 2012|5144 1708!5144 1708|5488 1708!5488 1708|5487 1788!5487 1788|5234 1788!5234 1788|5235 1966!5235 1966[5279 2003 5357 2034!5357 2034[5423
+ 2060 5507 2060!5507 2060[5596 2060 5668 2019!5668 2019[5710 1996 5736 1970!5736 1970[5761 1945 5782 1906!5782 1906[5821 1831 5823 1716!5823 1716[5825 1614 5795 1541!5795 1541[5768 1478 5744 1450!5744 1450[5698 1398 5653 1379!5653 1379
+[5577 1347 5514 1347"/>
+                                <Edge cubics="!5234 1788(5234,1788;5234,1788 5235,1966 5235,1966q5234 1788 5235 1966);"/>
+                                <Edge cubics="!5235 1966(;5260,1987 5307,2014 5357,2034q5235 1966Q5279 2003q5357 2034);"/>
+                                <Edge cubics="!5357 2034(;5408,2054 5457,2060 5507,2060q5357 2034Q5423 2060q5507 2060)5507,2060;"/>
+                                <Edge cubics="!5507 2060(;5564,2060 5619,2047 5668,2019q5507 2060Q5596 2060q5668 2019);"/>
+                                <Edge cubics="!5668 2019(5668,2019;5724,1988 5754,1958 5782,1906q5668 2019Q5710 1996q5736 1970Q5761 1945q5782 1906)5782,1906;"/>
+                                <Edge cubics="!5782 1906(;5811,1851 5822,1791 5823,1716q5782 1906Q5821 1831q5823 1716);"/>
+                                <Edge cubics="!5823 1716(5823,1716;5824,1653 5817,1595 5795,1541q5823 1716Q5825 1614q5795 1541);"/>
+                                <Edge cubics="!5795 1541(5795,1541;5782,1510 5767,1476 5744,1450q5795 1541Q5768 1478q5744 1450);"/>
+                                <Edge cubics="!5744 1450(;5721,1424 5691,1395 5653,1379q5744 1450Q5698 1398q5653 1379);"/>
+                                <Edge cubics="!5653 1379(;5615,1363 5566,1347 5514,1347q5653 1379Q5577 1347q5514 1347);"/>
+                                <Edge cubics="!5514 1347(5514,1347;5471,1347 5421,1352 5385,1367q5514 1347Q5433 1347q5385 1367);"/>
+                                <Edge cubics="!5385 1367(5385,1367;5350,1382 5313,1404 5294,1429q5385 1367Q5320 1395q5294 1429);"/>
+                                <Edge cubics="!5294 1429(5294,1429;5275,1454 5255,1487 5243,1531q5294 1429Q5258 1477q5243 1531);"/>
+                                <Edge cubics="!5243 1531(5243,1531;5243,1531 5159,1508 5159,1508q5243 1531 5159 1508);"/>
+                                <Edge cubics="!5159 1508(;5178,1447 5192,1416 5220,1380q5159 1508Q5185 1425q5220 1380);"/>
+                                <Edge cubics="!5220 1380(;5249,1344 5288,1318 5338,1298q5220 1380Q5261 1329q5338 1298)5338,1298;"/>
+                                <Edge cubics="!5338 1298(;5388,1278 5445,1269 5507,1269q5338 1298Q5411 1269q5507 1269)5507,1269;"/>
+                                <Edge cubics="!5507 1269(;5593,1269 5667,1293 5732,1328q5507 1269Q5622 1269q5732 1328)5732,1328;"/>
+                                <Edge cubics="!5732 1328(;5798,1364 5845,1420 5875,1495q5732 1328Q5829 1381q5875 1495)5875,1495;"/>
+                                <Edge cubics="!5875 1495(;5908,1575 5920,1625 5921,1716q5875 1495Q5900 1557q5910 1601Q5920 1649q5921 1716);"/>
+                                <Edge cubics="!5921 1716(5921,1716;5922,1806 5903,1864 5870,1934q5921 1716Q5922 1779q5908 1833Q5897 1877q5870 1934)5870,1934;"/>
+                                <Edge cubics="!5870 1934(;5837,2004 5795,2041 5724,2082q5870 1934Q5846 1985q5811 2019Q5780 2050q5724 2082)5724,2082;"/>
+                                <Edge cubics="!5724 2082(;5657,2122 5596,2137 5506,2141q5724 2082Q5675 2112q5624 2125Q5575 2138q5506 2141)5506,2141;"/>
+                                <Edge cubics="!5506 2141(;5443,2143 5381,2135 5322,2112q5506 2141Q5405 2144q5322 2112)5322,2112;"/>
+                                <Edge cubics="!5322 2112(;5262,2090 5200,2057 5144,2012q5322 2112Q5224 2076q5144 2012)5144,2012;"/>
+                                <Edge cubics="!5144 2012(;5144,2012 5144,1708 5144,1708q5144 2012 5144 1708)5144,1708;"/>
+                                <Edge cubics="!5144 1708(;5144,1708 5488,1708 5488,1708q5144 1708 5488 1708)5488,1708;"/>
+                                <Edge cubics="!5488 1708(;5488,1708 5487,1788 5487,1788q5488 1708 5487 1788);"/>
+                                <Edge cubics="!5487 1788(5487,1788;5487,1788 5234,1788 5234,1788q5487 1788 5234 1788);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMGroup>
+                          <members>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-43" ty="-47.3"/>
+                              </matrix>
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#292929"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="
+!5530 950[5840 950 6057 1171!6057 1171[6273 1390 6273 1703!6273 1703[6273 2019 6057 2240!6057 2240[5841 2461 5530 2461!5530 2461[5221 2461 5007 2240!5007 2240[4794 2019 4794 1703!4794 1703[4794 1390 5007 1171!5007 1171[5220 950 5527 950
+!5527 950|5530 950!5526 1031[5261 1031 5078 1226!5078 1226[4895 1421 4895 1703!4895 1703[4895 1990 5078 2187!5078 2187[5261 2384 5526 2380!5526 2380[5797 2380 5982 2186!5982 2186[6166 1992 6166 1710!6166 1710[6166 1423 5983 1227!5983
+ 1227[5799 1031 5529 1031!5529 1031|5526 1031"/>
+                                <Edge cubics="!5526 1031(5526,1031;5172,1031 4895,1328 4895,1703q5526 1031Q5261 1031q5078 1226Q4895 1421q4895 1703);"/>
+                                <Edge cubics="!4895 1703(;4895,2085 5172,2385 5526,2380q4895 1703Q4895 1990q5078 2187Q5261 2384q5526 2380);"/>
+                                <Edge cubics="!5526 2380(;5889,2380 6166,2085 6166,1710q5526 2380Q5797 2380q5982 2186Q6166 1992q6166 1710);"/>
+                                <Edge cubics="!6166 1710(;6166,1328 5889,1031 5529,1031q6166 1710Q6166 1423q5983 1227Q5799 1031q5529 1031);"/>
+                                <Edge cubics="!5529 1031(;5529,1031 5526,1031 5526,1031q5529 1031 5526 1031);"/>
+                                <Edge cubics="!5530 950(5530,950;5945,950 6273,1287 6273,1703q5530 950Q5840 950q6057 1171Q6273 1390q6273 1703);"/>
+                                <Edge cubics="!6273 1703(;6273,2123 5945,2461 5530,2461q6273 1703Q6273 2019q6057 2240Q5841 2461q5530 2461);"/>
+                                <Edge cubics="!5530 2461(;5117,2461 4794,2123 4794,1703q5530 2461Q5221 2461q5007 2240Q4794 2019q4794 1703);"/>
+                                <Edge cubics="!4794 1703(;4794,1287 5117,950 5527,950q4794 1703Q4794 1390q5007 1171Q5220 950q5527 950);"/>
+                                <Edge cubics="!5527 950(;5527,950 5530,950 5530,950q5527 950 5530 950);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GABRIEL J. SHULDINER JEWELRY " color="#FF4FFF" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText name="" right="9786" bottom="715">
+                  <matrix>
+                    <Matrix ty="95.1"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Sackers" psName="SackersGothic"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="18" verticalAlign="top" firstBaselineOffset="ascent" paddingLeft="0" paddingTop="0" paddingRight="0" paddingBottom="0" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow alignmentBaseline="useDominantBaseline" blockProgression="tb" columnCount="inherit" columnGap="inherit" columnWidth="inherit" direction="ltr" dominantBaseline="auto" lineBreak="inherit" paddingBottom="inherit" paddingLeft="inherit" paddingRight="inherit" paddingTop="inherit" paragraphEndIndent="0" paragraphSpaceAfter="0" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textIndent="0" verticalAlign="inherit" whiteSpaceCollapse="preserve" xmlns="http://ns.adobe.com/textLayout/2008"><p baselineShift="0" breakOpportunity="auto" color="#292929" digitCase="default" digitWidth="default" direction="ltr" fontFamily="Arial" fontSize="20" fontStyle="normal" fontWeight="normal" ligatureLevel="common" lineHeight="120%" lineThrough="false" locale="en" paragraphSpaceAfter="0" textAlign="center" textAlpha="1" textDecoration="none" textRotation="auto" trackingRight="29.59%" typographicCase="default"><span>GABRIEL </span><span trackingRight="0%">J.</span><span> SHULDINER </span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
