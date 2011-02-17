@@ -1,0 +1,24 @@
+<projectDescription>
+  <id>1234745687381</id>
+  <name>WordSearchGame</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/iksnae/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/iksnae/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="MainMenuView.as">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/MainMenuView.as</uri>
+    <uri label="GameView.as">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/GameView.as</uri>
+    <uri label="wordHuntGame.fla">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/wordHuntGame.fla</uri>
+    <uri label="WordHunt.as">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/WordHunt.as</uri>
+    <uri label="TileView.as">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/com/wordhunt/view/TileView.as</uri>
+    <uri label="GameLogic.as">file:///Macintosh HD/Users/iksnae/Documents/DEV/WordHunt/WordHunt/source/com/wordhunt/control/GameLogic.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
