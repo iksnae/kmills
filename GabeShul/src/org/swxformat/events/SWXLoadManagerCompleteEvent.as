@@ -1,0 +1,1 @@
+﻿package org.swxformat.events{	import flash.events.Event;		public class SWXLoadManagerCompleteEvent extends flash.events.Event	{		public static const LOADMANAGER_COMPLETE:String = "loadmanagercomplete";						function SWXLoadManagerCompleteEvent(bubbles:Boolean = false, cancelable:Boolean = false)		{			super(LOADMANAGER_COMPLETE,bubbles,cancelable);					}	}}
